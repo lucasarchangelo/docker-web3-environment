@@ -48,3 +48,7 @@ If you run into any issues while using this Docker image, please check the follo
 - Make sure you are using the correct Docker commands to build and run the image.
 - Make sure you have permissions to access the directory where you cloned the repository.
 - Make sure the ports used by the Docker image are not already in use by other applications on your machine.
+
+## Credits
+
+I want to give some credits to my friend [Rodrigo Sasaki](https://github.com/rodrigopsasaki) that helped me to create the first Docker image to this project.
