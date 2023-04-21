@@ -2,8 +2,7 @@
 
 # Dockerized Development Environment
 
-This project was created develop Docker images that provides a pre-installed development environment for students to use during coding workshops.  It includes all the necessary tools and dependencies for students to be able to develop and run code on their own machines without any additional setup required.
-
+This project was created to develop Docker images that provides a pre-installed development environment for students to use during coding workshops.  It includes all the necessary tools and dependencies for students to be able to develop and run code on their own machines without any additional setup required.
 
 ## Prerequisites
 
