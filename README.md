@@ -37,7 +37,7 @@ To get started using this Docker image, follow these steps:
 
 6. This will open a new vscode window, after connect with success click on open folder
 
-7. Use the provided credentials to connect to the MySQL and PostgreSQL databases: navigate to this folder: /usr/workshop/
+7. navigate to this folder: /usr/workshop/
 
 
 ## Troubleshooting
